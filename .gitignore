@@ -4,3 +4,7 @@ Untitled.ipynb
 rain-2.py
 Scikit-Gabor.ipynb
 g1.ipynb
+.DS_Store
+.ipynb_checkpoints/
+.gitignore~
+Untitled1.ipynb
