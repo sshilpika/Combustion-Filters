@@ -1,0 +1,6 @@
+.DS_Store
+.ipynb_checkpoints/
+XraySpray/
+images/
+matlab_norm/
+test_IM/
